@@ -32,7 +32,7 @@
 
 <p align="left">
   <!-- GIF on left/right -->
-  <img align="right" alt="Coding GIF" width="300" src="https://techtweekinfotech.com/wp-content/uploads/2023/07/full-stack-developer.gif"/>
+  <img align="right" alt="Coding GIF" width="300" src="https://techtweekinfotech.com/wp-content/uploads/2024/05/about-full.gif"/>
 
   <!-- Your tools icons -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
