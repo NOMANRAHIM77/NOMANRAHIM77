@@ -13,14 +13,14 @@
 - 🌱 Learning **Node.js | Express | MongoDB**  
 - 👯 Looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **React, JavaScript, CSS**  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/)  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/noman-rahim-b79960268/)  
 - ⚡ Fun fact: I love exploring new tech 🚀  
 
 ---
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/noman-rahim-b79960268/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
   <a href="https://twitter.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
   <a href="https://facebook.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
   <a href="https://instagram.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
