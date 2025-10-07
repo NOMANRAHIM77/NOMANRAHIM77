@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="900" height="500" alt="Header GIF"/>
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" height="500" alt="Header GIF"/>
 </p>
 
 # Hi 👋, I'm Noman Rahim
@@ -50,11 +50,7 @@
 
 ---
 
-## 🏆 GitHub Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUserName&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
 
 ---
 
