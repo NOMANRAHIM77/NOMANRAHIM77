@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600" alt="Coding gif"/>
+  <img src="https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif" width="100%" height="400" alt="Coding gif"/>
 </p>
 
 # Hi 👋, I'm Noman Rahim
