@@ -50,9 +50,28 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUserName&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
+
+---
+
+## ⚡ GitHub Highlights  
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=YourUserName&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUserName&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <!-- Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
+
