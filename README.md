@@ -1,11 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/35/e8/31/35e831211cac34608995c283301af732.gif" width="900" alt="Header GIF"/>
-</p>
-
-<!-- JavaScript Logo -->
-<p align="center" style="background-color:black; padding:10px; border-radius:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" alt="JavaScript Logo"/>
+  <img src="https://www.bib4b.com/upload/dssss.gif" width="100%" height="350" alt="Header GIF"/>
 </p>
 
 # Hi 👋, I'm Noman Rahim
