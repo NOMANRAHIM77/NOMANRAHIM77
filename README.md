@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif" width="100%" height="400" alt="Coding gif"/>
+  <img src="https://i.pinimg.com/originals/28/d9/a5/28d9a5107af5d4c4da117c05b4393b83.gif" width="100%" height="400" alt="Coding gif"/>
 </p>
 
 # Hi 👋, I'm Noman Rahim
@@ -58,20 +58,5 @@
 
 ---
 
-## ⚡ GitHub Highlights  
 
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=YourUserName&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUserName&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <!-- Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
 
