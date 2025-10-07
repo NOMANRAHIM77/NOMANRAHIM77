@@ -1,6 +1,6 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://miro.medium.com/1*PfKQJcCa9pmx4gsXUUg4Dg.jpeg" alt="Banner" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechtweekinfotech.com%2Ffull-stack-developer%2F&psig=AOvVaw1L6zuFig2BXv7aLUe5Xow2&ust=1759937141374000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCmmfOykpADFQAAAAAdAAAAABA-" alt="Banner" />
 </p>
 
 # Hi 👋, I'm Noman Rahim
