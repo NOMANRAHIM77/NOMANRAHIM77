@@ -1,6 +1,6 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" />
+  <img src="https://miro.medium.com/1*PfKQJcCa9pmx4gsXUUg4Dg.jpeg" alt="Banner" />
 </p>
 
 # Hi 👋, I'm Noman Rahim
